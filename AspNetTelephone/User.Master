@@ -34,6 +34,10 @@
                     <a class="waves-effect" href="MyContact.aspx"><i
                             class="menu-icon fa fa-home"></i><span>My Contact</span></a>
                 </li>
+                <li>
+                    <a class="waves-effect" href="ContactReport.aspx"><i
+                            class="menu-icon fa fa-home"></i><span>Report</span></a>
+                </li>
             </ul>
 
 
@@ -48,7 +52,9 @@
     </div>
 
     <div class="pull-right">
-        <a href="#" class="ico-item fa fa-power-off js__logout"></a>
+         <a href="Logout.aspx" class="btn btn-info btn-lg">
+          <span class="glyphicon glyphicon-log-out"></span> Logout
+        </a>
     </div>
 
 </div>

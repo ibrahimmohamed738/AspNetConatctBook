@@ -9,7 +9,7 @@
                        <tr>
                            <td><label for="txtfirstname" style="margin-top:10px">First Name:</label></td>
                            <td><asp:TextBox ID="txtfirstname" runat="server" class="form-control" ></asp:TextBox></td>
-                           <td><asp:Button ID="btnSearch" runat="server" Text="Search" class="btn btn-primary btn-sm waves-effect waves-light" style="margin-top:10px" OnClick="btnSearch_Click"/></td>
+                           <td><asp:Button ID="btnSearch" runat="server" Text="Search" class="btn btn-primary btn-sm waves-effect waves-light" style="margin-top:10px; left: 0px; top: 0px;" OnClick="btnSearch_Click"/></td>
                        </tr>
                        
                    </table>
